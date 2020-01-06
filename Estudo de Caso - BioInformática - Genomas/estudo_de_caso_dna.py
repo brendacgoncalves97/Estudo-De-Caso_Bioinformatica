@@ -1,4 +1,4 @@
-entrada = open("bacteria.fasta").read()
+entrada = open("bacteria.fasta").read() # bacteria e human foram usados no mesmo script para gerar seus respectivos html
 saida = open("bacteria.html", "w")
 
 cont = {}
